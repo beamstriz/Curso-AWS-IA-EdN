@@ -1,0 +1,3 @@
+Modelo A - Tempo de execução: 3.2s
+Modelo B - Tempo de execução: 4.5s
+Modelo C - Tempo de execução: 2.9s
